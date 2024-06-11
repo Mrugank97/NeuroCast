@@ -1,6 +1,6 @@
 # **NeuroCast**
 ## **Project Proposal**
-*Comparative CO2 Forecasting with MLP, MA, and ARIMA on Mauna Lua Data*
+*A Comparative Evaluation of Multi-Layer Perceptron, Moving Average, and Autoregressive Integrated Moving Average Models for Forecasting Carbon Dioxide Levels*
 
 ## **Objective**
 
